@@ -8,6 +8,6 @@ Social Accounts-
 
 Instagram-https://instagram.com/_urdhwarit_rane
 YouTube-https://youtube.com/UCEEykj9uKJSdaF5-TI1LayQ
-Twitter-https;//twitter.com/Urdhwarit
+Twitter-https://twitter.com/Urdhwarit
 
 Frontend Developer
